@@ -1,6 +1,8 @@
 # Python 
 Codes for different Applications
+
 1) Dictionary (V-2.7.6)
+=======================
    Program to take a sentence as input and store each of it's characters with it's frequency in dictionary and print dictionary.
 2) X_Pattern (V-2.7.6)
    Generate X Pattern using Python 2.7.6
